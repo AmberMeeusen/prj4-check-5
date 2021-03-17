@@ -27,3 +27,11 @@
 	padding: 0.5em;
 	font-size: 20px
 }
+.end {
+	text-align: right;
+	font-family: garamond;
+	color: #7a77b9;
+	margin-left: 200px;
+	margin-right: 200px;
+	font-size: 20px;
+}
